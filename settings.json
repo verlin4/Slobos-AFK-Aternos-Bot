@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "1109.aternos.me",
+    "ip": "kokopu.aternos.host:33939",
     "port": 33939,
     "version": "1.21.4",
     "try-creative": false
