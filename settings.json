@@ -1,34 +1,34 @@
 {
-  "name": "AFK Bot",
+  "name": "I Love 1109",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Player_Playz",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "1109.aternos.me",
+    "port": 33939,
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
     "enabled": true,
-    "x": 0,
+    "x": 1980,
     "y": 100,
     "z": 0
   },
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "iamverlin@1278"
     },
     "anti-afk": {
       "enabled": true,
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
@@ -61,7 +61,7 @@
     "avoidMobs": true,
     "combat": true,
     "beds": false,
-    "chat": true,
+    "chat": false,
     "console-commands": true
   },
   "combat": {
